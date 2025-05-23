@@ -1,4 +1,3 @@
-Sistema de Gestão de Tarefas
 
 ## Visão Geral
 
