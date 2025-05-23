@@ -1,4 +1,4 @@
-# Documentação do Projeto 1: Sistema de Gestão de Tarefas
+Sistema de Gestão de Tarefas
 
 ## Visão Geral
 
