@@ -1,4 +1,4 @@
-# Lista de Tarefas para o Projeto 1: Sistema de Gestão de Tarefas
+# Lista de Tarefas para Sistema de Gestão de Tarefas
 
 ## Configuração do Ambiente
 - [x] Criar estrutura de pastas para cliente e servidor
